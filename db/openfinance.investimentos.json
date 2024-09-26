@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "66d85b226bd3132f04c865c0"
+  },
+  "categoria": "Renda Fixa",
+  "tipo": "CDB",
+  "descricao": "Certificado de Depósito Bancário",
+  "detalhes": {
+    "instituicao_financeira": "Nome do Banco",
+    "valor_investido": 10000,
+    "data_aplicacao": "2024-01-01",
+    "data_vencimento": "2025-01-01",
+    "taxa_juros": 0.06,
+    "rentabilidade_atual": 10300
+  },
+  "historico_transacoes": [
+    {
+      "tipo_transacao": "aplicacao",
+      "valor": 10000,
+      "data": "2024-01-01"
+    },
+    {
+      "tipo_transacao": "resgate_parcial",
+      "valor": 5000,
+      "data": "2024-06-01"
+    }
+  ],
+  "tags": [
+    "baixo risco",
+    "curto prazo"
+  ],
+  "notas": "Comentários ou observações adicionais sobre este investimento"
+},
+{
+  "_id": {
+    "$oid": "66dfbf66c2c29138e4e88e78"
+  },
+  "categoria": "string",
+  "tipo": "string",
+  "descricao": "string",
+  "detalhes": {
+    "instituicao_financeira": "string",
+    "valor_investido": 0,
+    "data_aplicacao": {
+      "$date": "2024-09-10T00:00:00.000Z"
+    },
+    "data_vencimento": {
+      "$date": "2024-09-10T00:00:00.000Z"
+    },
+    "taxa_juros": 0,
+    "rentabilidade_atual": 0
+  },
+  "historico_transacoes": [
+    {
+      "tipo_transacao": "string",
+      "valor": 0,
+      "data": {
+        "$date": "2024-09-10T00:00:00.000Z"
+      }
+    }
+  ],
+  "tags": [
+    "string"
+  ],
+  "notas": ""
+},
+{
+  "_id": {
+    "$oid": "66dfbfde0495d1b03f3280bd"
+  },
+  "categoria": "string",
+  "tipo": "string",
+  "descricao": "string",
+  "detalhes": {
+    "instituicao_financeira": "string",
+    "valor_investido": 0,
+    "data_aplicacao": {
+      "$date": "2024-09-10T00:00:00.000Z"
+    },
+    "data_vencimento": {
+      "$date": "2024-09-10T00:00:00.000Z"
+    },
+    "taxa_juros": 0,
+    "rentabilidade_atual": 0
+  },
+  "historico_transacoes": [
+    {
+      "tipo_transacao": "string",
+      "valor": 0,
+      "data": {
+        "$date": "2024-09-10T00:00:00.000Z"
+      }
+    }
+  ],
+  "tags": [
+    "string"
+  ],
+  "notas": ""
+}]

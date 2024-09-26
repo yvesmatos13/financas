@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c8666c"
+  },
+  "nome": "Aplicação",
+  "descricao": "Transação onde o usuário aplica dinheiro em um investimento.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c8666d"
+  },
+  "nome": "Resgate Parcial",
+  "descricao": "Resgate de parte do valor investido antes da data de vencimento, quando aplicável.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c8666e"
+  },
+  "nome": "Resgate Total",
+  "descricao": "Resgate total do investimento, encerrando a posição do usuário naquele investimento.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c8666f"
+  },
+  "nome": "Recebimento de Juros/Rendimentos",
+  "descricao": "Recebimento de juros, dividendos ou outros rendimentos gerados pelo investimento.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c86670"
+  },
+  "nome": "Compra",
+  "descricao": "Compra de um ativo de renda variável, como ações ou criptomoedas.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c86671"
+  },
+  "nome": "Venda",
+  "descricao": "Venda de um ativo de renda variável, como ações ou criptomoedas.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c86672"
+  },
+  "nome": "Transferência Interna",
+  "descricao": "Transferência de um investimento entre contas ou categorias dentro da mesma instituição.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c86673"
+  },
+  "nome": "Aporte Adicional",
+  "descricao": "Adição de mais capital em um investimento já existente.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c86674"
+  },
+  "nome": "Taxas e Encargos",
+  "descricao": "Pagamento de taxas, como taxas de administração, corretagem, ou outras despesas relacionadas ao investimento.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c86675"
+  },
+  "nome": "Conversão de Moeda",
+  "descricao": "Conversão de um investimento de uma moeda para outra, como no caso de investimentos em moeda estrangeira.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c86676"
+  },
+  "nome": "Dividendos",
+  "descricao": "Recebimento de dividendos de ações ou fundos imobiliários.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c86677"
+  },
+  "nome": "Amortização",
+  "descricao": "Recebimento de parte do valor de um investimento em títulos antes do vencimento.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c86678"
+  },
+  "nome": "Reinvestimento Automático",
+  "descricao": "Rendimentos gerados por um investimento são automaticamente reinvestidos no próprio ativo ou em outro especificado.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b7886bd3132f04c86679"
+  },
+  "nome": "Juros sobre Capital Próprio",
+  "descricao": "Recebimento de juros sobre o capital próprio, um tipo de distribuição de lucros de empresas.",
+  "categoria": "Investimento"
+},
+{
+  "_id": {
+    "$oid": "66d8b8956bd3132f04c86680"
+  },
+  "nome": "Pagamento",
+  "descricao": "Pagamento de despesas ou serviços.",
+  "categoria": "Despesa"
+},
+{
+  "_id": {
+    "$oid": "66d8b8956bd3132f04c86681"
+  },
+  "nome": "Compra",
+  "descricao": "Compra de produtos ou bens de consumo.",
+  "categoria": "Despesa"
+},
+{
+  "_id": {
+    "$oid": "66d8b8956bd3132f04c86682"
+  },
+  "nome": "Retirada",
+  "descricao": "Retirada de fundos para despesas.",
+  "categoria": "Despesa"
+},
+{
+  "_id": {
+    "$oid": "66d8b8956bd3132f04c86683"
+  },
+  "nome": "Assinatura",
+  "descricao": "Despesas recorrentes associadas a assinaturas de serviços.",
+  "categoria": "Despesa"
+},
+{
+  "_id": {
+    "$oid": "66d8b8956bd3132f04c86684"
+  },
+  "nome": "Taxa",
+  "descricao": "Pagamento de taxas governamentais, bancárias ou de serviços.",
+  "categoria": "Despesa"
+},
+{
+  "_id": {
+    "$oid": "66d8b8956bd3132f04c86685"
+  },
+  "nome": "Transferência",
+  "descricao": "Transferência de fundos para cobrir despesas.",
+  "categoria": "Despesa"
+},
+{
+  "_id": {
+    "$oid": "66d8b8956bd3132f04c86686"
+  },
+  "nome": "Juros",
+  "descricao": "Pagamento de juros sobre dívidas ou financiamentos.",
+  "categoria": "Despesa"
+}]

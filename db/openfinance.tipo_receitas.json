@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "66d8b5a26bd3132f04c8665c"
+  },
+  "nome": "Salário",
+  "descricao": "Receita proveniente de remuneração por trabalho."
+},
+{
+  "_id": {
+    "$oid": "66d8b5a26bd3132f04c8665d"
+  },
+  "nome": "Freelance",
+  "descricao": "Renda obtida por trabalhos temporários ou por conta própria."
+},
+{
+  "_id": {
+    "$oid": "66d8b5a26bd3132f04c8665e"
+  },
+  "nome": "Aluguel",
+  "descricao": "Receita proveniente do aluguel de propriedades ou imóveis."
+},
+{
+  "_id": {
+    "$oid": "66d8b5a26bd3132f04c8665f"
+  },
+  "nome": "Investimento",
+  "descricao": "Rendimentos gerados por investimentos, como juros, dividendos, etc."
+},
+{
+  "_id": {
+    "$oid": "66d8b5a26bd3132f04c86660"
+  },
+  "nome": "Prêmios",
+  "descricao": "Receitas provenientes de prêmios ou concursos."
+},
+{
+  "_id": {
+    "$oid": "66d8b5a26bd3132f04c86661"
+  },
+  "nome": "Vendas",
+  "descricao": "Receita proveniente da venda de bens ou serviços."
+},
+{
+  "_id": {
+    "$oid": "66d8b5a26bd3132f04c86662"
+  },
+  "nome": "Pensão",
+  "descricao": "Receita proveniente de pensões alimentícias ou de aposentadoria."
+},
+{
+  "_id": {
+    "$oid": "66d8b5a26bd3132f04c86663"
+  },
+  "nome": "Outros",
+  "descricao": "Outras receitas que não se encaixam nas categorias principais."
+}]

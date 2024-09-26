@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "66d8b4246bd3132f04c8663c"
+  },
+  "nome": "Salário",
+  "descricao": "Rendimentos provenientes de emprego ou trabalho."
+},
+{
+  "_id": {
+    "$oid": "66d8b4246bd3132f04c8663d"
+  },
+  "nome": "Bônus",
+  "descricao": "Pagamentos adicionais recebidos além do salário regular, como bonificações ou comissões."
+},
+{
+  "_id": {
+    "$oid": "66d8b4246bd3132f04c8663e"
+  },
+  "nome": "Rendimentos de Investimentos",
+  "descricao": "Rendimentos provenientes de investimentos, como juros, dividendos, ou ganhos de capital."
+},
+{
+  "_id": {
+    "$oid": "66d8b4246bd3132f04c8663f"
+  },
+  "nome": "Aluguel",
+  "descricao": "Receitas provenientes de aluguéis de propriedades ou ativos."
+},
+{
+  "_id": {
+    "$oid": "66d8b4246bd3132f04c86640"
+  },
+  "nome": "Pensão",
+  "descricao": "Pagamentos regulares recebidos como pensão alimentícia ou aposentadoria."
+},
+{
+  "_id": {
+    "$oid": "66d8b4246bd3132f04c86641"
+  },
+  "nome": "Negócios Próprios",
+  "descricao": "Rendimentos provenientes de negócios próprios ou autônomos."
+},
+{
+  "_id": {
+    "$oid": "66d8b4246bd3132f04c86642"
+  },
+  "nome": "Vendas",
+  "descricao": "Rendimentos provenientes da venda de produtos ou serviços."
+},
+{
+  "_id": {
+    "$oid": "66d8b4246bd3132f04c86643"
+  },
+  "nome": "Royalties",
+  "descricao": "Pagamentos recebidos pelo uso de propriedade intelectual, como direitos autorais ou patentes."
+},
+{
+  "_id": {
+    "$oid": "66d8b4246bd3132f04c86644"
+  },
+  "nome": "Outros",
+  "descricao": "Outras fontes de receitas que não se enquadram nas categorias acima."
+}]

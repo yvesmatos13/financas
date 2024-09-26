@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "66d864186bd3132f04c865f4"
+  },
+  "nome": "Banco do Brasil",
+  "codigo": "001",
+  "site": "https://www.bb.com.br",
+  "pais": "Brasil",
+  "tipo": "Banco",
+  "status": "ativo"
+},
+{
+  "_id": {
+    "$oid": "66d864186bd3132f04c865f5"
+  },
+  "nome": "Caixa Econômica Federal",
+  "codigo": "104",
+  "site": "https://www.caixa.gov.br",
+  "pais": "Brasil",
+  "tipo": "Banco",
+  "status": "ativo"
+},
+{
+  "_id": {
+    "$oid": "66d864186bd3132f04c865f6"
+  },
+  "nome": "Nubank",
+  "codigo": "260",
+  "site": "https://www.nubank.com.br",
+  "pais": "Brasil",
+  "tipo": "Banco Digital",
+  "status": "ativo"
+},
+{
+  "_id": {
+    "$oid": "66d864186bd3132f04c865f7"
+  },
+  "nome": "Banco Itaú",
+  "codigo": "341",
+  "site": "https://www.itau.com.br",
+  "pais": "Brasil",
+  "tipo": "Banco",
+  "status": "ativo"
+},
+{
+  "_id": {
+    "$oid": "66d864186bd3132f04c865f8"
+  },
+  "nome": "Banco Santander",
+  "codigo": "033",
+  "site": "https://www.santander.com.br",
+  "pais": "Brasil",
+  "tipo": "Banco",
+  "status": "ativo"
+},
+{
+  "_id": {
+    "$oid": "66d864186bd3132f04c865f9"
+  },
+  "nome": "Banco Bradesco",
+  "codigo": "237",
+  "site": "https://www.bradesco.com.br",
+  "pais": "Brasil",
+  "tipo": "Banco",
+  "status": "ativo"
+},
+{
+  "_id": {
+    "$oid": "66d864186bd3132f04c865fa"
+  },
+  "nome": "Banco Inter",
+  "codigo": "077",
+  "site": "https://www.bancointer.com.br",
+  "pais": "Brasil",
+  "tipo": "Banco Digital",
+  "status": "ativo"
+},
+{
+  "_id": {
+    "$oid": "66d864186bd3132f04c865fb"
+  },
+  "nome": "Outras Instituições",
+  "codigo": "000",
+  "site": "",
+  "pais": "Desconhecido",
+  "tipo": "Outro",
+  "status": "ativo"
+}]

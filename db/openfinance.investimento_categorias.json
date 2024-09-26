@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "66d8b3336bd3132f04c86622"
+  },
+  "nome": "Renda Fixa",
+  "tipos": [
+    {
+      "nome": "CDB",
+      "descricao": "Certificado de Depósito Bancário"
+    },
+    {
+      "nome": "Tesouro Direto",
+      "descricao": "Títulos Públicos Federais"
+    },
+    {
+      "nome": "LCI/LCA",
+      "descricao": "Letras de Crédito Imobiliário/Agronegócio"
+    },
+    {
+      "nome": "Debêntures",
+      "descricao": "Títulos de dívida emitidos por empresas"
+    },
+    {
+      "nome": "Poupança",
+      "descricao": "Conta de poupança bancária"
+    },
+    {
+      "nome": "Fundos de Renda Fixa",
+      "descricao": "Fundos que investem em títulos de renda fixa"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d8b3336bd3132f04c86623"
+  },
+  "nome": "Renda Variável",
+  "tipos": [
+    {
+      "nome": "Ações",
+      "descricao": "Participação no capital de empresas"
+    },
+    {
+      "nome": "ETFs",
+      "descricao": "Exchange Traded Funds"
+    },
+    {
+      "nome": "Fundos Imobiliários",
+      "descricao": "Fundos que investem em imóveis"
+    },
+    {
+      "nome": "BDRs",
+      "descricao": "Brazilian Depositary Receipts"
+    },
+    {
+      "nome": "Criptomoedas",
+      "descricao": "Moedas digitais como Bitcoin"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d8b3336bd3132f04c86624"
+  },
+  "nome": "Investimentos em Imóveis",
+  "tipos": [
+    {
+      "nome": "Compra de Imóveis para Aluguel",
+      "descricao": "Investimento em imóveis para gerar renda de aluguel"
+    },
+    {
+      "nome": "Compra de Imóveis para Revenda",
+      "descricao": "Compra e venda de imóveis para obter lucro"
+    },
+    {
+      "nome": "Fundos Imobiliários (FIIs)",
+      "descricao": "Fundos que investem em imóveis"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d8b3336bd3132f04c86625"
+  },
+  "nome": "Previdência",
+  "tipos": [
+    {
+      "nome": "Previdência Privada (PGBL/VGBL)",
+      "descricao": "Plano de previdência complementar para aposentadoria"
+    },
+    {
+      "nome": "FAPIs",
+      "descricao": "Fundos de Aposentadoria Programada Individual com benefícios fiscais"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d8b3336bd3132f04c86626"
+  },
+  "nome": "Fundos de Investimento",
+  "tipos": [
+    {
+      "nome": "Fundos Multimercado",
+      "descricao": "Fundos que investem em diferentes tipos de ativos"
+    },
+    {
+      "nome": "Fundos de Ações",
+      "descricao": "Fundos que investem em ações de empresas"
+    },
+    {
+      "nome": "Fundos de Índice",
+      "descricao": "Fundos que replicam índices de mercado"
+    },
+    {
+      "nome": "Fundos Cambiais",
+      "descricao": "Fundos que investem em moedas estrangeiras"
+    },
+    {
+      "nome": "Fundos de Previdência",
+      "descricao": "Fundos destinados à previdência privada"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d8b3336bd3132f04c86627"
+  },
+  "nome": "Investimentos Alternativos",
+  "tipos": [
+    {
+      "nome": "Startups (Venture Capital)",
+      "descricao": "Investimento em empresas emergentes"
+    },
+    {
+      "nome": "Crowdfunding Imobiliário",
+      "descricao": "Investimento coletivo em imóveis"
+    },
+    {
+      "nome": "Commodities",
+      "descricao": "Investimento em recursos naturais como ouro, prata, etc."
+    },
+    {
+      "nome": "Obras de Arte e Antiguidades",
+      "descricao": "Investimento em arte, antiguidades e colecionáveis"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d8b3336bd3132f04c86628"
+  },
+  "nome": "Outros",
+  "tipos": [
+    {
+      "nome": "Moedas Estrangeiras (Forex)",
+      "descricao": "Investimento em moedas estrangeiras no mercado Forex"
+    },
+    {
+      "nome": "Títulos Públicos Estrangeiros",
+      "descricao": "Investimento em títulos de dívida emitidos por governos estrangeiros"
+    },
+    {
+      "nome": "Empréstimos (Peer-to-Peer Lending)",
+      "descricao": "Empréstimos entre pessoas físicas sem intermediação de instituições financeiras"
+    }
+  ]
+}]

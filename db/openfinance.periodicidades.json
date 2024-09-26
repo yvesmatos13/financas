@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "66d8b3956bd3132f04c8662d"
+  },
+  "nome": "Diária",
+  "descricao": "Transações que ocorrem todos os dias."
+},
+{
+  "_id": {
+    "$oid": "66d8b3956bd3132f04c8662e"
+  },
+  "nome": "Semanal",
+  "descricao": "Transações que ocorrem uma vez por semana."
+},
+{
+  "_id": {
+    "$oid": "66d8b3956bd3132f04c8662f"
+  },
+  "nome": "Quinzenal",
+  "descricao": "Transações que ocorrem a cada duas semanas."
+},
+{
+  "_id": {
+    "$oid": "66d8b3956bd3132f04c86630"
+  },
+  "nome": "Mensal",
+  "descricao": "Transações que ocorrem uma vez por mês."
+},
+{
+  "_id": {
+    "$oid": "66d8b3956bd3132f04c86631"
+  },
+  "nome": "Bimestral",
+  "descricao": "Transações que ocorrem a cada dois meses."
+},
+{
+  "_id": {
+    "$oid": "66d8b3956bd3132f04c86632"
+  },
+  "nome": "Trimestral",
+  "descricao": "Transações que ocorrem a cada três meses."
+},
+{
+  "_id": {
+    "$oid": "66d8b3956bd3132f04c86633"
+  },
+  "nome": "Semestral",
+  "descricao": "Transações que ocorrem a cada seis meses."
+},
+{
+  "_id": {
+    "$oid": "66d8b3956bd3132f04c86634"
+  },
+  "nome": "Anual",
+  "descricao": "Transações que ocorrem uma vez por ano."
+},
+{
+  "_id": {
+    "$oid": "66d8b3956bd3132f04c86635"
+  },
+  "nome": "Irregular",
+  "descricao": "Transações que ocorrem sem uma periodicidade fixa."
+}]

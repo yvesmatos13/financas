@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "66d8b27c6bd3132f04c86611"
+  },
+  "nome": "Alimentação",
+  "descricao": "Despesas relacionadas à compra de alimentos, refeições fora de casa, etc."
+},
+{
+  "_id": {
+    "$oid": "66d8b27c6bd3132f04c86612"
+  },
+  "nome": "Moradia",
+  "descricao": "Despesas relacionadas a aluguel, hipoteca, manutenção da casa, contas de luz, água, etc."
+},
+{
+  "_id": {
+    "$oid": "66d8b27c6bd3132f04c86613"
+  },
+  "nome": "Transporte",
+  "descricao": "Despesas com combustível, manutenção do veículo, transporte público, etc."
+},
+{
+  "_id": {
+    "$oid": "66d8b27c6bd3132f04c86614"
+  },
+  "nome": "Saúde",
+  "descricao": "Despesas com medicamentos, consultas médicas, exames, seguros de saúde, etc."
+},
+{
+  "_id": {
+    "$oid": "66d8b27c6bd3132f04c86615"
+  },
+  "nome": "Educação",
+  "descricao": "Despesas com mensalidades escolares, cursos, livros, material escolar, etc."
+},
+{
+  "_id": {
+    "$oid": "66d8b27c6bd3132f04c86616"
+  },
+  "nome": "Lazer",
+  "descricao": "Despesas com atividades recreativas, viagens, hobbies, entretenimento, etc."
+},
+{
+  "_id": {
+    "$oid": "66d8b27c6bd3132f04c86617"
+  },
+  "nome": "Vestuário",
+  "descricao": "Despesas com roupas, calçados, acessórios, etc."
+},
+{
+  "_id": {
+    "$oid": "66d8b27c6bd3132f04c86618"
+  },
+  "nome": "Serviços",
+  "descricao": "Despesas com serviços como internet, TV a cabo, telefonia, assinatura de streaming, etc."
+},
+{
+  "_id": {
+    "$oid": "66d8b27c6bd3132f04c86619"
+  },
+  "nome": "Impostos",
+  "descricao": "Despesas com pagamento de impostos, taxas governamentais, etc."
+},
+{
+  "_id": {
+    "$oid": "66d8b27c6bd3132f04c8661a"
+  },
+  "nome": "Outros",
+  "descricao": "Despesas que não se encaixam em outras categorias."
+}]

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "66d862276bd3132f04c865f1"
+  },
+  "nome": "Conta Corrente Banco do Brasil",
+  "descricao": "Conta corrente para transações diárias no Banco do Brasil.",
+  "instituicao": "Banco do Brasil",
+  "numero_conta": "123456-7",
+  "agencia": "0001",
+  "saldo_inicial": 1000,
+  "tipo_conta": "corrente",
+  "moeda": "BRL",
+  "ativo": true
+},
+{
+  "_id": {
+    "$oid": "66df4c002579e3272b8db9c1"
+  },
+  "nome": "Conta Corrente Banco do Brasil",
+  "descricao": "Conta corrente para transações diárias no Banco do Brasil.",
+  "instituicao": "Banco do Brasil",
+  "numero_conta": "123456-7",
+  "agencia": "0001",
+  "saldo_inicial": 1000,
+  "tipo_conta": "corrente",
+  "moeda": "BRL",
+  "ativo": true
+}]

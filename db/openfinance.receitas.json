@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "66d85f636bd3132f04c865e1"
+  },
+  "descricao": "Salário Mensal",
+  "valor": 5000,
+  "data": "2024-09-01T00:00:00Z",
+  "categoria": "Salário",
+  "periodicidade": "mensal",
+  "tipo_pagamento": "Transferência Bancária",
+  "conta": "Conta Corrente",
+  "observacao": "Recebido em dia",
+  "tipo_receita": "Recorrente",
+  "recebido": true,
+  "recorrencia": {
+    "inicio": "2024-09-01T00:00:00Z",
+    "fim": "2025-09-01T00:00:00Z",
+    "intervalo": "mensal"
+  }
+},
+{
+  "_id": {
+    "$oid": "66dfa8f7eaf34c026e4a8698"
+  },
+  "descricao": "string",
+  "valor": 0,
+  "data": {
+    "$date": "2024-09-10T02:03:32.039Z"
+  },
+  "categoria": "string",
+  "periodicidade": "string",
+  "tipo_pagamento": "string",
+  "conta": "string",
+  "observacao": "string",
+  "tipo_receita": "string",
+  "recebido": true,
+  "recorrencia": {
+    "inicio": {
+      "$date": "2024-09-10T02:03:32.039Z"
+    },
+    "fim": {
+      "$date": "2024-09-10T02:03:32.039Z"
+    },
+    "intervalo": "string"
+  }
+},
+{
+  "_id": {
+    "$oid": "66dfa94a6c2ce1dcf5c58101"
+  },
+  "descricao": "string",
+  "valor": 0,
+  "data": {
+    "$date": "2024-09-10T02:03:32.039Z"
+  },
+  "categoria": "string",
+  "periodicidade": "string",
+  "tipo_pagamento": "string",
+  "conta": "string",
+  "observacao": "string",
+  "tipo_receita": "string",
+  "recebido": true,
+  "recorrencia": {
+    "inicio": {
+      "$date": "2024-09-10T02:03:32.039Z"
+    },
+    "fim": {
+      "$date": "2024-09-10T02:03:32.039Z"
+    },
+    "intervalo": "string"
+  }
+},
+{
+  "_id": {
+    "$oid": "66dfa95b6c2ce1dcf5c58102"
+  },
+  "descricao": "string",
+  "valor": 0,
+  "data": {
+    "$date": "2024-09-10T02:05:08.948Z"
+  },
+  "categoria": "string",
+  "periodicidade": "string",
+  "tipo_pagamento": "string",
+  "conta": "string",
+  "observacao": "string",
+  "tipo_receita": "string",
+  "recebido": true,
+  "recorrencia": {
+    "inicio": {
+      "$date": "2024-09-10T02:05:08.948Z"
+    },
+    "fim": {
+      "$date": "2024-09-10T02:05:08.948Z"
+    },
+    "intervalo": "string"
+  }
+},
+{
+  "_id": {
+    "$oid": "66dfa9bc914df63e1352951c"
+  },
+  "descricao": "string",
+  "valor": 0,
+  "data": {
+    "$date": "2024-09-10T02:05:08.948Z"
+  },
+  "categoria": "string",
+  "periodicidade": "string",
+  "tipo_pagamento": "string",
+  "conta": "string",
+  "observacao": "string",
+  "tipo_receita": "string",
+  "recebido": true,
+  "recorrencia": {
+    "inicio": {
+      "$date": "2024-09-10T02:05:08.948Z"
+    },
+    "fim": {
+      "$date": "2024-09-10T02:05:08.948Z"
+    },
+    "intervalo": "string"
+  }
+},
+{
+  "_id": {
+    "$oid": "66dfaa32eeff70ef96d91db7"
+  },
+  "descricao": "string",
+  "valor": 0,
+  "data": {
+    "$date": "2024-09-10T02:05:08.948Z"
+  },
+  "categoria": "string",
+  "periodicidade": "string",
+  "tipo_pagamento": "string",
+  "conta": "string",
+  "observacao": "string",
+  "tipo_receita": "string",
+  "recebido": true,
+  "recorrencia": {
+    "inicio": {
+      "$date": "2024-09-10T02:05:08.948Z"
+    },
+    "fim": {
+      "$date": "2024-09-10T02:05:08.948Z"
+    },
+    "intervalo": "string"
+  }
+}]

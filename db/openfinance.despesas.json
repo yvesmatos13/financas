@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "66d8b0796bd3132f04c86607"
+  },
+  "descricao": "Teste Compra de supermercado",
+  "valor": 250.75,
+  "data": "2024-09-03T10:00:00Z",
+  "categoria": "Alimentação",
+  "tipo_transacao": "Débito",
+  "conta": "Conta Corrente",
+  "recorrente": false,
+  "parcela": {
+    "numero": 1,
+    "total": 1
+  },
+  "observacoes": "Compra mensal de alimentos e itens de higiene",
+  "tipo_pagamento": "Cartão de Débito",
+  "id": "66d8b0796bd3132f04c86607"
+},
+{
+  "_id": {
+    "$oid": "66df419af73806e09d070318"
+  },
+  "categoria": "Alimentação",
+  "valor": 250.5,
+  "data": "2024-09-05",
+  "tipo_pagamento": "Cartão de Crédito",
+  "conta": "Banco X",
+  "descricao": "Compra de supermercado"
+},
+{
+  "_id": {
+    "$oid": "66df426c68f3ba1746d126a3"
+  },
+  "categoria": "Alimentação",
+  "valor": 250.5,
+  "data": "2024-09-05",
+  "tipo_pagamento": "Cartão de Crédito",
+  "conta": "Banco X",
+  "descricao": "Compra de supermercado"
+},
+{
+  "_id": {
+    "$oid": "66dfbfc20495d1b03f3280bc"
+  },
+  "descricao": "string",
+  "valor": 0,
+  "data": {
+    "$date": "2024-09-10T00:00:00.000Z"
+  },
+  "categoria": "string",
+  "tipo_transacao": "string",
+  "tipo_pagamento": "string",
+  "conta": "string",
+  "recorrente": true,
+  "parcela": {
+    "numero": 0,
+    "total": 0
+  },
+  "observacoes": "string"
+}]

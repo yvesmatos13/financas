@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "66d8b4fe6bd3132f04c86648"
+  },
+  "nome": "Conta Corrente",
+  "descricao": "Conta bancária utilizada para transações do dia a dia, como pagamentos e recebimentos."
+},
+{
+  "_id": {
+    "$oid": "66d8b4fe6bd3132f04c86649"
+  },
+  "nome": "Conta Poupança",
+  "descricao": "Conta bancária destinada à poupança e geração de juros."
+},
+{
+  "_id": {
+    "$oid": "66d8b4fe6bd3132f04c8664a"
+  },
+  "nome": "Conta Digital",
+  "descricao": "Conta bancária digital para transações online e serviços financeiros."
+},
+{
+  "_id": {
+    "$oid": "66d8b4fe6bd3132f04c8664b"
+  },
+  "nome": "Conta de Investimento",
+  "descricao": "Conta destinada à aplicação em investimentos financeiros."
+},
+{
+  "_id": {
+    "$oid": "66d8b4fe6bd3132f04c8664c"
+  },
+  "nome": "Cartão de Crédito",
+  "descricao": "Conta para gerenciamento de pagamentos com cartão de crédito."
+},
+{
+  "_id": {
+    "$oid": "66d8b4fe6bd3132f04c8664d"
+  },
+  "nome": "Carteira Digital",
+  "descricao": "Carteira digital para pagamentos online e armazenagem de valores."
+},
+{
+  "_id": {
+    "$oid": "66d8b4fe6bd3132f04c8664e"
+  },
+  "nome": "Outros",
+  "descricao": "Outros tipos de contas ou carteiras financeiras não especificadas."
+}]

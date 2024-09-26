@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "66d8b5586bd3132f04c86651"
+  },
+  "nome": "Transferência Bancária",
+  "descricao": "Pagamento ou recebimento através de transferência entre contas bancárias."
+},
+{
+  "_id": {
+    "$oid": "66d8b5586bd3132f04c86652"
+  },
+  "nome": "Boleto Bancário",
+  "descricao": "Pagamento realizado via boleto bancário."
+},
+{
+  "_id": {
+    "$oid": "66d8b5586bd3132f04c86653"
+  },
+  "nome": "Cartão de Crédito",
+  "descricao": "Pagamento ou recebimento utilizando um cartão de crédito."
+},
+{
+  "_id": {
+    "$oid": "66d8b5586bd3132f04c86654"
+  },
+  "nome": "Cartão de Débito",
+  "descricao": "Pagamento ou recebimento utilizando um cartão de débito."
+},
+{
+  "_id": {
+    "$oid": "66d8b5586bd3132f04c86655"
+  },
+  "nome": "Dinheiro",
+  "descricao": "Pagamento ou recebimento em espécie."
+},
+{
+  "_id": {
+    "$oid": "66d8b5586bd3132f04c86656"
+  },
+  "nome": "Pix",
+  "descricao": "Pagamento ou recebimento instantâneo através do sistema Pix."
+},
+{
+  "_id": {
+    "$oid": "66d8b5586bd3132f04c86657"
+  },
+  "nome": "Cheque",
+  "descricao": "Pagamento ou recebimento através de cheque bancário."
+},
+{
+  "_id": {
+    "$oid": "66d8b5586bd3132f04c86658"
+  },
+  "nome": "Depósito Bancário",
+  "descricao": "Recebimento via depósito direto em conta bancária."
+},
+{
+  "_id": {
+    "$oid": "66d8b5586bd3132f04c86659"
+  },
+  "nome": "Outros",
+  "descricao": "Outros métodos de pagamento não especificados."
+}]
